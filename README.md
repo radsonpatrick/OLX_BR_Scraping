@@ -1,4 +1,8 @@
-# OLX_BR_Scraping
+<h1 align="center"> 
+	🚧  OLX Brasil Scraping 🚀
+  Em construção...  🚧
+</h1>
+
 ## Introdução
 Projeto começou com o intuito de aprender  e melhorar as habilidades em  Python,git,jupyter,ETL e analise de dados. ultilizando esse projeto que sempre foi um objetivo para mim faze-lo.
 
@@ -7,7 +11,7 @@ Visualização e notificação de novos anuncios na plataforma https://olx.com.b
 -Notificação por Email e Telegram  podendo ser implementado para mais meios.
 
 ## **BUGS**
--Codigo ainda com um bug em escolher a div que contem os estados.intermitente ao encontrar a div
+- Codigo ainda com um bug em escolher a div que contem os estados.intermitente ao encontrar a div
 
 ## O que funciona
 ### Seleção de estado
